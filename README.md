@@ -12,8 +12,10 @@ In this project, I developed a game where a character named Stick-Hero traverses
 - **Development Duration**: (Nov’23 – Dec’23)
 
 ## Future Improvements
--Add more challenging levels.
--Implement a leaderboard feature.
--Enhance the graphics and animations further.
+
+- Add more challenging levels.
+- Implement a leaderboard feature.
+- Enhance the graphics and animations further.
+
 
 Contributed by- Komal and Ishika Gupta 
